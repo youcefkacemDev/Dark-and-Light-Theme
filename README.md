@@ -6,3 +6,5 @@ This repository demonstrates how to implement dark and light theme toggling in w
 <hr>
 <h1>the light theme</h1>
 <img src=".\screen\Screenshot 2024-10-05 181602.png">
+<hr>
+<a href="./src/index.html">view here</a>
